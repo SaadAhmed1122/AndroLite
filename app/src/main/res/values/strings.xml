@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ETS Testing Service</string>
+    <string name="image">image</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+
+    <string name="main_url">https://www.etspakistan.org.pk</string>
+
+    <string name="instagram_link">https://www.instagram.com/etestingservice/</string>
+    <string name="youtube_link">https://www.youtube.com</string>
+    <string name="facebook_link">https://www.facebook.com/etestingservicepakistan</string>
+    <string name="facebook_page_id">https://www.facebook.com/etestingservicepakistan</string>
+    <string name="twitter">https://twitter.com/ETestingServic1</string>
+
+<!--    <string name="ad_publisher_id">pub-3940256099942544</string>-->
+<!--    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>-->
+<!--    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>-->
+<!--    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <string name="about_us_developer">Developer</string>
+    <string name="about_us_developer_name">ETS</string>
+    <string name="about_us_email">Email</string>
+    <string name="about_us_email_text"> ets@etspakistan.org.pk</string>
+    <string name="about_us_contact">Contact</string>
+    <string name="about_us_contact_text">"+92 306 9867619"</string>
+    <string name="about_us_about">About Us</string>
+    <string name="about">About</string>
+    <string name="about_description">ETS Pakistan is a prestigious organization
+        started with the initiative to facilitate the individuals all over Pakistan
+        conducting their mock tests online so that they may could know that where
+        they stand while preparing for any target, even staying indoors.
+    </string>
+
+    <string name="sure_quit">Are you sure you want to quit?</string>
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+</resources>
